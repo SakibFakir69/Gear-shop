@@ -493,8 +493,8 @@ nav ul li {
     }
     
     #mid{
-        height:280px;
-        width:280px;
+        height:260px;
+        width:260px;
         margin-top:20px;
         padding:1em;
         box-sizing: 5px 5px 5px rgb(83, 76, 76);
@@ -507,18 +507,22 @@ nav ul li {
     }
     #mid,#mid2,#mid3,#mid4,#mid5,#mid6,#mid7,#mid8,#mid9{
         margin-top:10px;
-        height:350px;
-        width:350px;
+        height:360px;
+        width:310px;
+        margin:0 auto;
     }
     .sakib{
-        height:250px;
-        width:250px;
+        height:220px;
+        width:280px;
         background-position: center;
         background-size: contain;
         box-shadow: 5px 5px 5px rgb(166, 165, 165);
         /* margin-right: 20px; */
         border-radius: 5px;
         margin:0 auto;
+    }
+    b{
+        visibility: visible;
     }
     
 }
